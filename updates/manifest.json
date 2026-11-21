@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:31:04.7172524Z",
+  "updatedAt": "2026-11-21T15:32:03.5971842Z",
   "apps": {
     "attendance": {
       "version": "1.9.0",
@@ -8,6 +8,14 @@
       "size": 46329710,
       "notes": "TimeSync 1.9.0 baseline for online updates.",
       "publishedAt": "2026-11-21T15:31:04.7163674Z"
+    },
+    "clinic": {
+      "version": "1.9.0",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/clinic-v1.9.0/WellFamilyClinic-v1.9.0.zip",
+      "sha256": "A3B750AF09099F8DA1AF4FA6F70A486D66B815230AFAD76C5A0E366AFB49547C",
+      "size": 39839932,
+      "notes": "Clinic 1.9.0 baseline for online updates.",
+      "publishedAt": "2026-11-21T15:32:03.5964770Z"
     }
   }
 }
