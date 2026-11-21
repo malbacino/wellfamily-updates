@@ -1,4 +1,13 @@
 {
-  "updatedAt": "2026-11-20T00:00:00Z",
-  "apps": {}
+  "updatedAt": "2026-11-21T15:31:04.7172524Z",
+  "apps": {
+    "attendance": {
+      "version": "1.9.0",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/attendance-v1.9.0/TimeSync-full-v1.9.0.zip",
+      "sha256": "674EBDE856E75083038378E39C88528BEB2735C5A192E67FB927AD0B06F0F7ED",
+      "size": 46329710,
+      "notes": "TimeSync 1.9.0 baseline for online updates.",
+      "publishedAt": "2026-11-21T15:31:04.7163674Z"
+    }
+  }
 }
