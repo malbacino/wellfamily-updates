@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:32:03.5971842Z",
+  "updatedAt": "2026-11-21T15:32:11.9276694Z",
   "apps": {
     "attendance": {
       "version": "1.9.0",
@@ -16,6 +16,14 @@
       "size": 39839932,
       "notes": "Clinic 1.9.0 baseline for online updates.",
       "publishedAt": "2026-11-21T15:32:03.5964770Z"
+    },
+    "launcher": {
+      "version": "1.9.0",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.0/WellFamilyLauncher-v1.9.0.zip",
+      "sha256": "012062DDC85E98CD1B4A8E5A398F70A4C180FFA9C4A2CD16F83AF8577AE1A422",
+      "size": 1505793,
+      "notes": "Suite launcher 1.9.0 baseline for online updates.",
+      "publishedAt": "2026-11-21T15:32:11.9268921Z"
     }
   }
 }
