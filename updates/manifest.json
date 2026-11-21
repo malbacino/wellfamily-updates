@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:44:24.2472590Z",
+  "updatedAt": "2026-11-21T15:44:33.6884376Z",
   "apps": {
     "attendance": {
       "version": "1.9.1",
@@ -18,12 +18,12 @@
       "publishedAt": "2026-11-21T15:44:24.2463290Z"
     },
     "launcher": {
-      "version": "1.9.0",
-      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.0/WellFamilyLauncher-v1.9.0.zip",
-      "sha256": "1BF98E9374C4CE2E22B0438F8AEE768A0EE66EEBB73F8C198288A8D8D8415F16",
-      "size": 1505793,
-      "notes": "Suite launcher 1.9.0 baseline for online updates.",
-      "publishedAt": "2026-11-21T15:34:22.4518287Z"
+      "version": "1.9.1",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.1/WellFamilyLauncher-v1.9.1.zip",
+      "sha256": "957EC4799A411961421AE6A8E7A385CB1F3AFF889816F10B40CC3E5508EF4628",
+      "size": 1507090,
+      "notes": "Online updates are now active for the suite launcher.",
+      "publishedAt": "2026-11-21T15:44:33.6876543Z"
     }
   }
 }
