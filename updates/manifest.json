@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:44:33.6884376Z",
+  "updatedAt": "2026-11-22T18:17:26.0233801Z",
   "apps": {
     "attendance": {
       "version": "1.9.1",
@@ -18,12 +18,12 @@
       "publishedAt": "2026-11-21T15:44:24.2463290Z"
     },
     "launcher": {
-      "version": "1.9.1",
-      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.1/WellFamilyLauncher-v1.9.1.zip",
-      "sha256": "957EC4799A411961421AE6A8E7A385CB1F3AFF889816F10B40CC3E5508EF4628",
-      "size": 1507090,
-      "notes": "Online updates are now active for the suite launcher.",
-      "publishedAt": "2026-11-21T15:44:33.6876543Z"
+      "version": "1.9.2",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.2/WellFamilyLauncher-v1.9.2.zip",
+      "sha256": "0DFA1C2DAAE1292345AE963CF7FC30116234B55156813665DB9DF6995E03B22E",
+      "size": 1809324,
+      "notes": "Fresh launcher build with the new Well-Family icons and window animations.",
+      "publishedAt": "2026-11-22T18:17:26.0222901Z"
     }
   }
 }
