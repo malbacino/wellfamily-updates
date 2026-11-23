@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T05:41:34.1872341Z",
+  "updatedAt": "2026-11-23T22:08:29.4600864Z",
   "apps": {
     "attendance": {
       "version": "1.9.3",
@@ -18,12 +18,12 @@
       "publishedAt": "2026-11-23T05:41:34.1864817Z"
     },
     "launcher": {
-      "version": "1.9.3",
-      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.3/WellFamilyLauncher-v1.9.3.zip",
-      "sha256": "E399F177C5498C32FBFA8935077B69DCF736436D3D6F5CE34EE0DC0BBC7A5423",
-      "size": 1833775,
-      "notes": "New suite launcher: server console with admin-password start and stop, installer-style layout, and the closing warning for both servers.",
-      "publishedAt": "2026-11-23T05:38:23.2723951Z"
+      "version": "1.9.5",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/launcher-v1.9.5/WellFamilyLauncher-v1.9.5.zip",
+      "sha256": "EA3BCEEBA906DFBBA9C451067585129991DC476744A7380182A5A575DDC22FEC",
+      "size": 1837566,
+      "notes": "Downloads page in the launcher rail with a QR code for the installers.",
+      "publishedAt": "2026-11-23T22:08:29.4593798Z"
     }
   }
 }
