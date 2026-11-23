@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T05:37:34.7962132Z",
+  "updatedAt": "2026-11-23T05:38:10.8884701Z",
   "apps": {
     "attendance": {
       "version": "1.9.3",
@@ -10,12 +10,12 @@
       "publishedAt": "2026-11-23T05:37:34.7958802Z"
     },
     "clinic": {
-      "version": "1.9.1",
-      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/clinic-v1.9.1/WellFamilyClinic-v1.9.1.zip",
-      "sha256": "2A0DCE3977D58BC28CEE9C798A6A9ED4B77B84535ACC9EF86529407DFB604150",
-      "size": 39841313,
-      "notes": "Online updates are now active for the Clinic.",
-      "publishedAt": "2026-11-21T15:44:24.2463290Z"
+      "version": "1.9.3",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/clinic-v1.9.3/WellFamilyClinic-v1.9.3.zip",
+      "sha256": "7B68681B72446EAFEED33E639EDB16F7571288295864DB53072F07A9867D29DD",
+      "size": 52825336,
+      "notes": "Clinic update: Delivery and PP and Newborn tabs brought forward, pregnancy status lights, PhilHealth benefit codes on clinic services, and safer automatic backups.",
+      "publishedAt": "2026-11-23T05:38:10.8878600Z"
     },
     "launcher": {
       "version": "1.9.2",
