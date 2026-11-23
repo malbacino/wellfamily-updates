@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-22T18:17:26.0233801Z",
+  "updatedAt": "2026-11-23T05:37:34.7962132Z",
   "apps": {
     "attendance": {
-      "version": "1.9.1",
-      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/attendance-v1.9.1/TimeSync-full-v1.9.1.zip",
-      "sha256": "0A242F9CFE1B2EF8748D5F3DDBEB9DA0C45E246E110FDD97A5501E62C2364AD4",
-      "size": 46331242,
-      "notes": "Online updates are now active for TimeSync.",
-      "publishedAt": "2026-11-21T15:43:32.1703024Z"
+      "version": "1.9.3",
+      "url": "https://github.com/malbacino/wellfamily-updates/releases/download/attendance-v1.9.3/TimeSync-full-v1.9.3.zip",
+      "sha256": "12B5E9401EF25BD3B31E0BB653D343AF0973F0E5BE3D1976000F0DE47EF25126",
+      "size": 46508373,
+      "notes": "TimeSync server update: the suite launcher now starts and stops this server, and automatic backups can no longer collide.",
+      "publishedAt": "2026-11-23T05:37:34.7958802Z"
     },
     "clinic": {
       "version": "1.9.1",
